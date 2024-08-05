@@ -29,15 +29,15 @@ The main objective of the project is to provide detailed analysis on bird strike
    -Dropped the unnecessary columns from the data.
 
 ## Exploratory Data Analysis with Python
--After performing cleaning steps, we visualized the plots using seaborn and matplotlib libraries with python. Steps performed in EDA task are:
-   -Yearly Analysis of Bird Strikes in US
-   -Top 10 US Airlines by Bird Strikes
-   -Top 10 Airports by Bird Strikes
-   -Yearly Cost Incurred due to Bird Strikes
-   -Bird Strikes by Conditions: Precipitations
-   -Effect of Bird Strikes & Impact on Flight
-   -Effect of Strikes at Different Altitude
-   -Prior Warning and Effect of Strike Relation
+- After performing cleaning steps, we visualized the plots using seaborn and matplotlib libraries with python. Steps performed in EDA task are:
+   - Yearly Analysis of Bird Strikes in US
+   - Top 10 US Airlines by Bird Strikes
+   - Top 10 Airports by Bird Strikes
+   - Yearly Cost Incurred due to Bird Strikes
+   - Bird Strikes by Conditions: Precipitations
+   - Effect of Bird Strikes & Impact on Flight
+   - Effect of Strikes at Different Altitude
+   - Prior Warning and Effect of Strike Relation
 
 ## Interactive Dashboard in Tableau
 - [Tableau Dashboard](https://public.tableau.com/app/profile/kajal.raut/viz/BirdStrikesAnalysisDashboard/Dashboard1)
