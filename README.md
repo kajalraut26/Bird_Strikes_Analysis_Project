@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c33be6fa-878c-4a63-9b50-ce2b3649bad9)![image](https://github.com/user-attachments/assets/22afb520-a509-4866-b396-b7add2749c21)# Bird_Strikes_Analysis_Project
+# Bird_Strikes_Analysis_Project
 Welcome to our detailed analysis report of bird strikes between 2000 to 2011. In this report, we will analyze the key highlights of the bird strikes data, unveiling the patterns of aviation safety and wildlife conservation and discuss sustainable measures to protect wildlife.
 
 ## Problem Statement:
