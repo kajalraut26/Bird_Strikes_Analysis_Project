@@ -10,10 +10,10 @@ The main objective of the project is to provide detailed analysis on bird strike
 ## Table of Contents:
 - [Tools Used](#tools-used)
 - [Data Collection and Data Cleaning Steps](#data-collection-and-data-cleaning-steps)
-- [Exploratory Data Analysis with Python](exploratory-data-analysis-with-python)
-- [Interactive Dashboard in Tableau](interactive-dashboard-in-tableau)
-- [Insights](insights)
-- [Conclusion](conclusion)
+- [Exploratory Data Analysis with Python](#exploratory-data-analysis-with-python)
+- [Interactive Dashboard in Tableau](#interactive-dashboard-in-tableau)
+- [Insights](#insights-and-findings)
+- [Conclusion](#conclusion)
 
 ## Tools Used
 - Excel
@@ -42,7 +42,7 @@ The main objective of the project is to provide detailed analysis on bird strike
 ## Interactive Dashboard in Tableau
 - [Tableau Dashboard](https://public.tableau.com/app/profile/kajal.raut/viz/BirdStrikesAnalysisDashboard/Dashboard1)
 
-## Insights
+## Insights and Findings
 - The highest no. of Birds strucks on the Airports was DALLAS/FORT WORTH INTL ARPT with an count of "2932", as the bar plot show the other Airports with there birds struck's count.
 - Southwest Airlines has encountered most number of bird strikes followed by Business and American Airlines.
 - The frequency of bird struck’s on different altitude as the highest count is shown by the altitude <1000 ft with the count of ‘59270’ as compared to when altitude was >1000 ft with the count of ‘8681’. 
