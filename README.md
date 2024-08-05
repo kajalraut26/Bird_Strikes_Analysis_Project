@@ -43,12 +43,12 @@ The main objective of the project is to provide detailed analysis on bird strike
 - [Tableau Dashboard](https://public.tableau.com/app/profile/kajal.raut/viz/BirdStrikesAnalysisDashboard/Dashboard1)
 
 ## Insights
--The highest no. of Birds strucks on the Airports was DALLAS/FORT WORTH INTL ARPT with an count of "2932", as the bar plot show the other Airports with there birds struck's count.
--Southwest Airlines has encountered most number of bird strikes followed by Business and American Airlines.
--The frequency of bird struck’s on different altitude as the highest count is shown by the altitude <1000 ft with the count of ‘59270’ as compared to when altitude was >1000 ft with the count of ‘8681’. 
--Most of the Damage caused during Climb and Approach phase.
--The impact to the Aircraft was vey less or "Nothing" where as there was few portions shown in the pie chart the impact was caused like "Engine Shut Down, Precautionary Landing & Others” 
--The total no. of birds struck by different weather conditions, the highest no. of birds struck was when the weather condition was "Rain" with the total of "4374" and lowest when "Fog, Snow" with the total of "4".
+- The highest no. of Birds strucks on the Airports was DALLAS/FORT WORTH INTL ARPT with an count of "2932", as the bar plot show the other Airports with there birds struck's count.
+- Southwest Airlines has encountered most number of bird strikes followed by Business and American Airlines.
+- The frequency of bird struck’s on different altitude as the highest count is shown by the altitude <1000 ft with the count of ‘59270’ as compared to when altitude was >1000 ft with the count of ‘8681’. 
+- Most of the Damage caused during Climb and Approach phase.
+- The impact to the Aircraft was vey less or "Nothing" where as there was few portions shown in the pie chart the impact was caused like "Engine Shut Down, Precautionary Landing & Others” 
+- The total no. of birds struck by different weather conditions, the highest no. of birds struck was when the weather condition was "Rain" with the total of "4374" and lowest when "Fog, Snow" with the total of "4".
 
 ## Conclusion
 Bird Strike is common and can be a significant threat to aircraft safety. For smaller aircraft, significant damage may be caused to the aircraft structure and all aircraft, especially jet-engine ones, are vulnerable to the loss of thrust which can follow the ingestion of birds into engine air intakes. This has resulted in several fatal accidents. The analysis of bird strike data highlights a critical balance between safety and wildlife conservation. As strikes pose risks to both aircraft and birds, it is imperative to prioritize sustainable practices to protect avian species. Without intervention, we risk not only endangering these species but potentially leading them to extinction. Proactive measures must be taken to safeguard their populations for the ecological balance and the well-being of our shared environment.
